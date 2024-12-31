@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.ProfileView">
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/cancelBtnProfile"
+            android:layout_width="38dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="18dp"
+            android:background="@drawable/cross_style"
+            android:src="@drawable/ic_cancel" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profileImageView"
+            android:layout_width="144dp"
+            android:layout_height="144dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp" />
+
+        <LinearLayout
+            android:layout_marginTop="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_success"/>
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:fontFamily="@font/poppins_medium"
+                android:text="@string/verified"
+                android:layout_marginStart="5dp"
+                android:textColor="@color/verified"
+                android:textSize="20sp"
+                android:gravity="center_vertical"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="20dp"
+            android:gravity="center"
+            android:padding="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView15">
+
+            <ImageButton
+                android:id="@+id/directMessage"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="-10dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_directmessage" />
+
+            <ImageButton
+                android:id="@+id/block"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="45dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_block" />
+
+            <ImageButton
+                android:id="@+id/report"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="45dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_report" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="37dp"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout4">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins"
+                    android:text="Name"
+                    android:layout_marginStart="5dp"
+                    android:textColor="@color/Header_1"
+                    android:textSize="14sp" />
+
+                <EditText
+                    android:id="@+id/personName"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:enabled="false"
+                    android:fontFamily="@font/poppins_medium"
+                    android:inputType="none"
+                    android:layout_marginTop="-8dp"
+                    android:textColor="@color/Header_1"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins"
+                    android:text="Blood Group"
+                    android:layout_marginStart="5dp"
+                    android:textColor="@color/Header_1"
+                    android:textSize="14sp" />
+
+                <EditText
+                    android:id="@+id/personBlood"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:enabled="false"
+                    android:fontFamily="@font/poppins_medium"
+                    android:inputType="none"
+                    android:layout_marginTop="-8dp"
+                    android:textColor="@color/Header_1"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins"
+                    android:text="Gender"
+                    android:layout_marginStart="5dp"
+                    android:textColor="@color/Header_1"
+                    android:textSize="14sp" />
+
+                <EditText
+                    android:id="@+id/personGender"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="-8dp"
+                    android:enabled="false"
+                    android:fontFamily="@font/poppins_medium"
+                    android:inputType="none"
+                    android:textColor="@color/Header_1"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

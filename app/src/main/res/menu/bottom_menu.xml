@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        app:cnb_backgroundColor="@color/irregular_shape_colour" />
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notification"
+        app:cnb_backgroundColor="@color/irregular_shape_colour" />
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Map"
+        app:cnb_backgroundColor="@color/irregular_shape_colour" />
+
+
+</menu>

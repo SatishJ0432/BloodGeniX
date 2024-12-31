@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/addbutton_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/background_success_animation.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/blood_roup_background_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/box.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/card_style.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/cross_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/custom_dialog_loading.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_about.xml" value="0.37447916666666664" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_active_person.xml" value="0.33240740740740743" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_app_icon.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.14907407407407408" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_arrow_back_24_black.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.32916666666666666" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_live_help_24.xml" value="0.14444444444444443" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.33240740740740743" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_password_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_picture_as_pdf_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_remove_circle_24.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_search_24_formap.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.3234758871701547" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_baseline_water_drop_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_block.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_camera.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_cancel.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_dashboard.xml" value="0.37447916666666664" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_directmessage.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_donationsymbol.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_drawer_1.xml" value="0.37447916666666664" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_facebook.xml" value="0.37447916666666664" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_finish_button.xml" value="0.37447916666666664" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_home_indicator.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_infotag.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_launcher_background.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_male_avatar.xml" value="0.32592592592592595" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_nextbutton.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_otp_2.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_outline_info_24.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_profile_details_1.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_profile_details_2.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_profile_image.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_receiversymbol.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_searchbars.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_searchchat.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_searchchatperson.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_success.xml" value="0.13148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ic_welcomepage.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/image_round.xml" value="0.33240740740740743" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/info_layout_background_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/loading_design_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/login_sheet_background.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/next_button_style.xml" value="0.5" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/profile_img_backgroud_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/receiver_shape_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/rectangle_profile_background.xml" value="0.1527777777777778" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ripple_effect.xml" value="0.37447916666666664" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/ripple_effect_raised.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/round_corners.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/search_block_style.xml" value="0.3212962962962963" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/searchbar_background_style.xml" value="0.33240740740740743" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/sender_shape_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/stats_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/success_animation.xml" value="0.327115559599636" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/drawable/text_box_style.xml" value="0.33287037037037037" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/font/montserrat.xml" value="0.3927083333333333" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_Welcome_Screen.xml" value="0.3541666666666667" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_about.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_blood_dnonor_search.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.3541666666666667" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_dash_board.xml" value="0.3541666666666667" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_dash_board_screen.xml" value="0.25770308123249297" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_donation_form.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_forget_password.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_full_profile_view.xml" value="0.34011090573012936" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_login_screen.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_on_boarding.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_otp_screen1.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_otp_screen2.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_profile_view.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_recipient_form.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_set_password.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_settings.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_signup_screen1.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_signup_screen2.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_user_profile_view.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/activity_welcome.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/block_layout_design.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/custom_action_bar.xml" value="0.3530534351145038" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/custom_success_dialog_layout.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/diabetic_count_dropdown.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/diabetic_cout_dropdown.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/donation_period_dropdown.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/dropdown_item_gender.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/edit_bottom_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/fragment_maps.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/fragment_notification.xml" value="0.3143518518518518" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/fragment_profile.xml" value="0.3143518518518518" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/header.xml" value="0.3541666666666667" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/image_click_zoom_layout.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/image_progress.xml" value="0.3143518518518518" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/info_layout.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/item_list_reason.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/items_list_blood.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/list_layout_search_page.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/loading_layout.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/login_bottom_sheet_dialog.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/notificationchat_layout.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/receiver_layout_item.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/sender_layout_item.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/layout/slide_layout_dashboard.xml" value="0.3541666666666667" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/menu/bottom_menu.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3148148148148148" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/menu/chat_menu.xml" value="0.5" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/menu/dot_menu.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/menu/main_menu.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/BloodGeniX/app/src/main/res/menu/searchmenu.xml" value="0.3148148148148148" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
