@@ -87,11 +87,11 @@ Create a branch and commit your changes.
 
 Open a pull request.
 
-Contact
+Contact: +91 9892481195
 
 For feedback or inquiries:
 
-Email: your-email@example.com
+Email: satishjha2704@gmail.com
 
 GitHub: Your Profile
 
